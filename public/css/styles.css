@@ -203,3 +203,7 @@ header {
 .error {
     color: red;
 }
+
+.ok {
+    color: lime;
+}
