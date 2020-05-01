@@ -199,3 +199,7 @@ header {
     color: #fff;
     text-transform: uppercase;
 }
+
+.error {
+    color: red;
+}
