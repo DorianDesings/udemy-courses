@@ -45,3 +45,4 @@ countdown('May 1 2020 11:28:00 GMT+0200', 'html');
 countdown('May 3 2020 21:34:40 GMT+0200', 'css');
 countdown('May 3 2020 21:34:40 GMT+0200', 'js');
 countdown('May 27 2020 05:05:00 GMT-0700', 'react');
+countdown('Jun 27 2020 05:05:00 GMT-0700', 'pug');
